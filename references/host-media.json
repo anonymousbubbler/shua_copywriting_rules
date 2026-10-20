@@ -1,0 +1,133 @@
+{
+  "researched_at": "2026-10-20",
+  "scope": "Public writing, copywriting, and creative advice from My First Million hosts outside the podcast. Six primary sources read. This is a focused verified supplement, not an exhaustive archive or a claim of paid-course access.",
+  "sources": [
+    {
+      "id": "shaan-audience-mailbag",
+      "title": "How would you build an audience from scratch in 2024?",
+      "url": "https://www.shaanpuri.com/mailbag/how-would-you-build-an-audience-from-scratch-in-2024",
+      "author": "Shaan Puri",
+      "type": "Host-authored public advice article",
+      "published": "2024-08-16",
+      "locator": "Lessons 1–9; especially 1–4, 6, 8, 9",
+      "verified_advice": [
+        "Prioritize the particular people your work attracts over raw follower totals.",
+        "Write about subjects you naturally obsess over; reveal experiences, interests, ambitions, and what you offer readers to build connection.",
+        "Decide which feeling your content should consistently deliver.",
+        "Strong substance matters more than polished delivery; length is less important than sustaining interest.",
+        "Improve one component with each new piece rather than waiting for instant audience growth."
+      ],
+      "relationship_to_existing_criteria": "Reinforces audience, voice, emotional stakes, honest payoff. Adds intended feeling, audience quality, and author-specific substance.",
+      "application": "Ask who should care, what the reader should feel, and what distinctive experience or observation earns their attention. Treat iteration as coaching rather than a scoreable property of one post.",
+      "limitations": "Personal experience and creator advice; no calibrated engagement prediction. The 5 Ds concern a body of work, not mandatory elements of every post."
+    },
+    {
+      "id": "shaan-creative-constraints",
+      "title": "creativity <3's constraints",
+      "url": "https://www.shaanpuri.com/essays/creativity-3s-constraints",
+      "author": "Shaan Puri",
+      "type": "Host-authored public essay",
+      "published": "2025-05-16",
+      "locator": "The takeaway; explanation of his One Minute Blog",
+      "verified_advice": [
+        "Choose a concrete constraint to stimulate creative solutions.",
+        "Shaan uses a short reading-time limit to force an insightful post into a smaller space."
+      ],
+      "relationship_to_existing_criteria": "New creative process principle; supports clarity and editing without making all posts equally short.",
+      "application": "Offer a rewrite constraint such as one central idea, a specified word limit, or a required format. Judge whether the post fulfills the user's actual constraint.",
+      "limitations": "A personal process essay, not proof that shorter always performs better. Historical anecdotes were not independently checked. Page also renders May 22 metadata; visible essay date and index say May 16."
+    },
+    {
+      "id": "shaan-big-mario",
+      "title": "big Mario marketing",
+      "url": "https://www.shaanpuri.com/essays/big-mario-marketing",
+      "author": "Shaan Puri",
+      "type": "Host-authored public marketing essay",
+      "published": "2025-03-22",
+      "locator": "Customer / product / result analogy and breakfast-bar example",
+      "verified_advice": [
+        "Center the customer's improved life after using the product.",
+        "Explain a concrete outcome instead of listing product ingredients or talking mainly about the seller.",
+        "Remember that purchase and learning effort can be costs on the path to the desired outcome."
+      ],
+      "relationship_to_existing_criteria": "Reinforces benefits and audience; sharpens the customer-transformation check.",
+      "application": "For promotional posts, connect a feature to a believable reader outcome. Do not invent quantified benefits in rewrites.",
+      "limitations": "Most relevant to persuasion and product marketing; do not require a sales benefit in a personal reflection. Page also renders May 21 metadata; essay heading and index say March 22."
+    },
+    {
+      "id": "sam-copythat-public-method",
+      "title": "CopyThat: How to write irresistible copy",
+      "url": "https://copythat.com/",
+      "author": "Sam Parr / CopyThat",
+      "type": "Official public course landing page with substantive method explanation",
+      "published": null,
+      "locator": "Copywork explanation and How to be a great copywriter sections",
+      "verified_advice": [
+        "Practice by handwriting admired writing to notice sentence patterns, texture, and author habits.",
+        "Use those observations to develop your own voice."
+      ],
+      "relationship_to_existing_criteria": "Adds a practice exercise; supports voice and rhythm.",
+      "application": "Suggest a short private copywork exercise when useful. Do not grade a post on whether its author did copywork, and do not recycle copied sentences as the user's publishable rewrite.",
+      "limitations": "Only public method description reviewed. Paid or emailed lessons and sales letters were not accessed. Sam's own samparr.com links to CopyThat."
+    },
+    {
+      "id": "sam-capitalism-transcript",
+      "title": "Sam Parr — How He Disrupted Media & And Got An 8-Figure Exit — Transcript",
+      "url": "https://www.capitalism.com/wp-content/uploads/2021/12/Sam-Parr-How-He-Disrupted-Media-And-Got-An-8-Figure-Exit-Transcript.pdf",
+      "author": "Sam Parr, interviewed by Ryan Moran",
+      "type": "Publisher-hosted public interview transcript, 33 pages",
+      "published": null,
+      "locator": "00:14:11–00:17:21, PDF pages 6–7; 00:18:50–00:23:25, pages 8–10; 00:34:56–00:35:40, pages 16–17",
+      "verified_advice": [
+        "Identify the intended audience and where it will discover the piece; connect distribution, headline, story, and intended emotion.",
+        "Study popular conversations and comments in communities your readers use, then contribute a distinctive perspective or useful detail.",
+        "Understand the motivation behind the reader's desired action.",
+        "Hand-copy strong work to discover patterns before creating your own writing."
+      ],
+      "relationship_to_existing_criteria": "Adds distribution fit and conversation evidence; reinforces audience, hooks, framing, emotional stakes, and voice.",
+      "application": "Ask what existing reader problem or discussion the post enters and what fresh contribution it makes. Mark audience research as unknown unless the user supplies evidence; do not fabricate it.",
+      "limitations": "Transcript is publicly readable but contains transcription errors. Sam expressly distinguishes this approach from SEO-first content. Publication date is not stated; URL contains 2021/12."
+    },
+    {
+      "id": "shaan-power-writing-public-page",
+      "title": "Power Writing by Shaan Puri",
+      "url": "https://maven.com/generalist/writing",
+      "author": "Shaan Puri / Maven",
+      "type": "Official public course page",
+      "published": null,
+      "locator": "Learning is better with cohorts: Active learning, not passive watching",
+      "verified_advice": [
+        "Draft an attempt, study examples and instruction, then rewrite the same task to apply the lesson.",
+        "Use feedback and before/after comparison to improve."
+      ],
+      "relationship_to_existing_criteria": "Adds a learning and revision workflow, not another quality dimension.",
+      "application": "Preserve the original draft, identify the most important improvement, produce a revised version, and explain the before/after change against the same criteria.",
+      "limitations": "Page says the course is no longer available. Public learning method was read; recordings, templates, slides, and paid curriculum were not accessed or inferred from marketing promises."
+    }
+  ],
+  "reviewer_design_notes": [
+    "Use host advice as explicit editorial criteria, not as a scientifically validated performance forecast.",
+    "Avoid double counting overlapping criteria: benefits and customer transformation belong together; emotional stakes and intended feeling can be one dimension.",
+    "Separate writing quality from research confidence: missing audience evidence should prompt a useful question or uncertainty label, not an invented claim.",
+    "Practice habits such as copywork, consistency, and iteration should appear as optional coaching and should not lower an otherwise strong post's score.",
+    "Adapt criteria to the purpose: a personal reflection need not contain a sales CTA, and a useful factual update need not manufacture drama."
+  ],
+  "additional_sources_checked_but_not_used_as_primary_evidence": [
+    {
+      "title": "Maven: Shaan Puri's Writing Tips",
+      "url": "https://maven.com/articles/shaan-puri-writing",
+      "status": "Public publisher summary read; not host-authored. Linked original Twitter thread failed to load.",
+      "potential_followup": "Useful corroboration for curiosity, conversational language, emotion, and a business-update structure of event, cause, and implication. Do not describe it as an inspected course lesson."
+    },
+    {
+      "title": "Shaan Puri: 3 Principles to Master Storytelling — How I Write",
+      "url": "https://podcasts.apple.com/us/podcast/shaan-puri-3-principles-to-master-storytelling-how/id1700171470?i=1000649845202",
+      "status": "Publisher episode description located, dated March 20, 2024. Host-site URL https://writeofpassage.com/shaan-puri/ failed to load. Third-party transcripts exist but were not used as verified primary transcript evidence in this supplement."
+    },
+    {
+      "title": "8 Copywriting Hacks Backed By Science",
+      "url": "https://blog.hubspot.com/marketing/copywriting-insights",
+      "status": "Read and excluded: authored by Phill Agnew, not an MFM host. It advertises the MFM course but is not evidence of what Sam or Shaan taught."
+    }
+  ]
+}

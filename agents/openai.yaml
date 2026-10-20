@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shua Copywriting Rules"
+  short_description: "Clearer copy, stronger flow, and honest rewrite scores"
+  default_prompt: "Use $shua-copywriting-rules to improve this idea or draft, research its public claims, simplify the wording and structure, and show the rewrite with its new score followed by the scorecard."

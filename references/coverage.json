@@ -1,0 +1,112 @@
+{
+  "researchedAt": "2026-10-20",
+  "focusedEpisodes": 13,
+  "externalSources": 6,
+  "limitations": "Focused research, not an exhaustive collection. RSS contains audio and show notes but no transcript fields. 57 RSS titles were unmatched in the directory. Selected transcript pages were readable with openings and closing material; audio completeness is unverified. Paid course lessons were not accessed.",
+  "episodes": [
+    {
+      "title": "Become A Better Writer In 60 Minutes (Masterclass)",
+      "date": "2024-02-19",
+      "transcript_url": "https://podscripts.co/podcasts/my-first-million/become-a-better-writer-in-60-minutes-masterclass",
+      "status": "searched",
+      "first_timestamp": "00:00:00",
+      "last_timestamp": "00:55:29"
+    },
+    {
+      "title": "How To Master Storytelling",
+      "date": "2024-05-27",
+      "transcript_url": "https://podscripts.co/podcasts/my-first-million/how-to-master-storytelling",
+      "status": "searched",
+      "first_timestamp": "00:00:00",
+      "last_timestamp": "01:49:50"
+    },
+    {
+      "title": "Writing Your Way to Millions with Neville Medhora",
+      "date": "2022-04-05",
+      "transcript_url": "https://podscripts.co/podcasts/my-first-million/writing-your-way-to-millions-with-neville-medhora",
+      "status": "searched",
+      "first_timestamp": "00:00:00",
+      "last_timestamp": "01:05:38"
+    },
+    {
+      "title": "#204 - Behind-the-Scenes of Shaan's Power Writing Course",
+      "date": "2021-07-28",
+      "transcript_url": "https://podscripts.co/podcasts/my-first-million/204-behind-the-scenes-of-shaans-power-writing-course",
+      "status": "searched",
+      "first_timestamp": "00:00:00",
+      "last_timestamp": "00:52:26"
+    },
+    {
+      "title": "#56 - The Recession Proof Skill Sets",
+      "date": "2020-03-15",
+      "transcript_url": "https://podscripts.co/podcasts/my-first-million/56-the-recession-proof-skill-sets",
+      "status": "searched",
+      "first_timestamp": "00:00:00",
+      "last_timestamp": "00:39:38"
+    },
+    {
+      "title": "#60 - YC Demo Day Startups #2, Importing Foreign Innovations & Collaborative Copywriting",
+      "date": "2020-03-30",
+      "transcript_url": "https://podscripts.co/podcasts/my-first-million/60-yc-demo-day-startups-2-importing-foreign-innovations-collaborative-copywriting",
+      "status": "searched",
+      "first_timestamp": "00:00:00",
+      "last_timestamp": "01:04:51"
+    },
+    {
+      "title": "Newsletter Schemes, Copywriting Scams and Chaotic Singles",
+      "date": "2023-08-08",
+      "transcript_url": "https://podscripts.co/podcasts/my-first-million/newsletter-schemes-copywriting-scams-and-chaotic-singles",
+      "status": "searched",
+      "first_timestamp": "00:00:00",
+      "last_timestamp": "01:22:00"
+    },
+    {
+      "title": "The Decision Register, Newsletter Woes and An Audience of One",
+      "date": "2023-07-21",
+      "transcript_url": "https://podscripts.co/podcasts/my-first-million/the-decision-register-newsletter-woes-and-an-audience-of-one",
+      "status": "searched",
+      "first_timestamp": "00:00:00",
+      "last_timestamp": "00:24:02"
+    },
+    {
+      "title": "Miracle Drugs, Sam's Secret Strategies, Good Storytelling, and More",
+      "date": "2023-01-13",
+      "transcript_url": "https://podscripts.co/podcasts/my-first-million/miracle-drugs-sams-secret-strategies-good-storytelling-and-more",
+      "status": "searched",
+      "first_timestamp": "00:00:10",
+      "last_timestamp": "01:05:21"
+    },
+    {
+      "title": "#218 - Why You Should Take a Think Week Like Bill Gates",
+      "date": "2021-09-10",
+      "transcript_url": "https://podscripts.co/podcasts/my-first-million/218-why-you-should-take-a-think-week-like-bill-gates",
+      "status": "searched",
+      "first_timestamp": "00:00:00",
+      "last_timestamp": "01:21:41"
+    },
+    {
+      "title": "The Step-by-Step Playbook We Used to Build a $100M+ Newsletter Business",
+      "date": "2025-04-04",
+      "transcript_url": "https://podscripts.co/podcasts/my-first-million/the-step-by-step-playbook-we-used-to-build-a-100m-newsletter-business",
+      "status": "searched",
+      "first_timestamp": "00:00:00",
+      "last_timestamp": "01:09:46"
+    },
+    {
+      "title": "The creative genius behind Squatty Potty & Poo-Pourri reveals his marketing playbook",
+      "date": "2026-10-07",
+      "transcript_url": "https://podscripts.co/podcasts/my-first-million/the-creative-genius-behind-squatty-potty-poo-pourri-reveals-his-marketing-playbook",
+      "status": "searched",
+      "first_timestamp": "00:00:00",
+      "last_timestamp": "01:04:59"
+    },
+    {
+      "title": "i got internet famous... if i started again from scratch, here's what I'd do this time",
+      "date": "2026-09-16",
+      "transcript_url": "https://podscripts.co/podcasts/my-first-million/i-got-internet-famous-if-i-started-again-from-scratch-heres-what-id-do-this-time",
+      "status": "searched",
+      "first_timestamp": "00:00:00",
+      "last_timestamp": "00:18:50"
+    }
+  ]
+}

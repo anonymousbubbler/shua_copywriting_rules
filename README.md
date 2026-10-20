@@ -9,6 +9,8 @@ A reusable AI skill for posts, newsletters, captions, and short business writing
 - A stronger rewrite that keeps your meaning and voice.
 - Original and rewritten scores using the same eight-part rubric.
 - Simpler wording and better paragraph order built into the rewrite.
+- Specific titles that tell readers what the copy is about.
+- One clear version of each point, with repeated ideas combined and useful details preserved.
 - Checks for generic AI phrasing, repetition, weak openings, and unsupported claims.
 - Linked findings for public facts when browsing is available.
 - A final editing review before the rewrite is returned.
@@ -75,6 +77,14 @@ Each applicable criterion is assessed from 0 to 10.
 The goal is to improve toward **92/100 or higher**, when the material supports it. Scores are editorial judgments, not predicted reach, sales, or scientific measurements. The skill must not invent facts, weaken checks, or inflate a score to reach that target. An already strong draft may need little change.
 
 Uncommon words are not automatic failures. The skill replaces unnecessary jargon while keeping names, technical terms, qualifications, and the details readers need.
+
+## Two firm editing rules
+
+**Use specific titles.** A line such as “Seeing the connections. Shaping the concept.” does not tell readers what the work is. The skill replaces vague titles, headlines, and promotional subheadings with wording grounded in the actual subject, action, or takeaway. It removes optional headings that add nothing.
+
+**Say the point once, clearly.** If a paragraph repeats an idea in several ways, the skill combines those versions into the clearest useful statement. It checks for repetition across the whole piece, including the opening and ending, while keeping distinct evidence and important caveats.
+
+Both rules are checked before the rewrite is returned. See [structure and flow](references/structure-flow.md) for examples.
 
 ## Sources and scope
 

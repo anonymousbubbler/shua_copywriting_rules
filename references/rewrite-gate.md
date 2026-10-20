@@ -14,11 +14,13 @@ Make proportionate edits, then run a distinct audit of the exact candidate and a
 | Factual fidelity | Details match the supplied material or checked research; no invented results or attribution. |
 | Voice | The text retains the author's recognizable perspective and register. |
 | Proportionate editing | Changes fix identified weaknesses without stripping useful depth or personality. |
-| Clarity | The actual opening, argument, paragraph order, and sentence handoffs work for the reader. |
+| Clarity | Titles identify a specific subject or useful promise; each point has one clear formulation without needless restatement; the opening, argument, paragraph order, and sentence handoffs work for the reader. |
 | No AI Slop | The pinned rules and evaluation have been applied to the candidate. |
 | User constraints | The requested format, scope, language, and instructions are honored. |
 
 Record Pass or Fail with concrete evidence for each. A desired numerical score is never evidence.
+
+For the title and concision requirements in [structure and flow](structure-flow.md), inspect every heading and compare ideas across the entire piece. Generic titles and repeated claims disguised with different words fail the existing clarity and user-constraint checks. Repair them by replacing or removing the vague heading and merging duplicate ideas while preserving distinct facts, evidence, and caveats. Do not merely flag the problem and return the same text, or withhold a rewrite when a supported repair is available. Optional word choices, repetition of a necessary term, and genuinely useful explanations are not failures.
 
 ## Repair instead of abandoning the rewrite
 

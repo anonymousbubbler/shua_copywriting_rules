@@ -17,7 +17,7 @@ This is an independent editorial workflow, not an official MFM system. The sourc
 
 1. **Understand the post.** Read the audience-facing text on its own. Identify its actual point, reader, purpose, format, strongest material, and recognizable voice. Infer reasonable context and state material assumptions briefly. Ask only when missing information would change the result.
 2. **Check the public facts.** Follow [claim research](references/claim-research.md) for names, dates, numbers, laws, quotations, product details, and consequential claims. Research publicly answerable questions before asking the user to do so. Keep facts, personal experience, opinion, and hypothetical examples distinct.
-3. **Diagnose the writing.** Read [structure and flow](references/structure-flow.md), [plain language](references/plain-language.md), and the [No AI Slop rules](references/no-ai-slop/SKILL.md). Find the earliest likely misunderstanding or loss of interest. Record specific original wording and the smallest effective repair. Preserve strong passages.
+3. **Diagnose the writing.** Read [structure and flow](references/structure-flow.md), [plain language](references/plain-language.md), and the [No AI Slop rules](references/no-ai-slop/SKILL.md). Check every title and heading for a specific subject or useful promise, and compare the whole piece for repeated ideas expressed in different words. Find the earliest likely misunderstanding or loss of interest. Record specific original wording and the smallest effective repair. Preserve strong passages.
 4. **Score the original.** Use the rubric below. Apply the same available evidence to both versions; the original does not gain credit for a correction made only in the rewrite.
 5. **Rewrite.** Lead with the strongest useful point, connect supporting ideas, use familiar wording where accurate, and finish with an earned takeaway. Keep the writer's perspective, reasoning, detail, and uncertainty. Do not force every post into a story, sales pitch, dramatic reveal, or CTA.
 6. **Audit and repair.** Follow the [rewrite checks](references/rewrite-gate.md) and [No AI Slop evaluation](references/no-ai-slop/eval.md). Fix concrete failures and check the changed candidate again. A low score or optional vocabulary preference is not a release gate.
@@ -37,6 +37,13 @@ Simplify the words and the route through the argument, without simplifying away 
 - Preserve necessary caveats, numbers, conditions, and the difference between “cannot” and “does not yet.”
 
 These are editorial preferences, not a banned-word test, mandatory reading grade, or automatic score penalty. Put useful simplifications directly into the rewrite.
+
+## Required title and concision rules
+
+- **Never use generic, vague titles or headings.** “Seeing the connections. Shaping the concept.” fails because it does not identify what the copy is about. Name the actual subject, action, question, or useful takeaway using supported facts. Apply this to post titles, headlines, website hero lines, and promotional subheadings. Replace vague wording with a concrete title, or remove an optional heading that adds nothing.
+- **Say each point once, in its strongest clear form.** When several sentences or paragraphs repeat the same idea, including through different synonyms, merge them into one concise expression that best satisfies clarity, specificity, voice, flow, and factual fidelity together. Preserve distinct facts, useful evidence, reasoning, and caveats; do not cram them into an overloaded sentence.
+
+Follow the examples and checks in [structure and flow](references/structure-flow.md). These are explicit editorial requirements under the existing clarity and user-constraint checks. Repair vague headings and needless repetition before returning the rewrite; a high overall score cannot excuse either.
 
 ## Scorecard
 

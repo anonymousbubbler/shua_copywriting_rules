@@ -26,6 +26,8 @@ This is an independent editorial workflow, not an official MFM system. The sourc
 
 For a strong draft, retaining it with an explanation may be better than rewriting. Identical retained text keeps its original score. For a batch, account for each draft separately and preserve relationships between connected posts.
 
+For founder outreach, read [outreach guidance](references/outreach.md). Lead with a useful business outcome in a conversational voice, show actual work, and explain its use plainly. Treat the outcome as an aim unless results are supported.
+
 ## Plain language and flow
 
 Simplify the words and the route through the argument, without simplifying away the truth.

@@ -20,6 +20,8 @@ Make proportionate edits, then run a distinct audit of the exact candidate and a
 
 Record Pass or Fail with concrete evidence for each. A desired numerical score is never evidence.
 
+For founder outreach, apply the [outreach checks](outreach.md#review-checks) under the existing voice, factual-fidelity, and user-constraint checks. Keep this guidance specific to outreach; it does not require a sales hook or CTA in other writing.
+
 For the title and concision requirements in [structure and flow](structure-flow.md), inspect every heading and compare ideas across the entire piece. Generic titles and repeated claims disguised with different words fail the existing clarity and user-constraint checks. Repair them by replacing or removing the vague heading and merging duplicate ideas while preserving distinct facts, evidence, and caveats. Do not merely flag the problem and return the same text, or withhold a rewrite when a supported repair is available. Optional word choices, repetition of a necessary term, and genuinely useful explanations are not failures.
 
 ## Repair instead of abandoning the rewrite
